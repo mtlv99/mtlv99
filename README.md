@@ -46,13 +46,13 @@ Here's a detailed list of the technologies I've worked with.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-#### Currently learning
-![Three.JS](https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white)
-
 #### Planning to learn
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+#### Currently learning
+![Three.JS](https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <hr>
 
