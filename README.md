@@ -18,7 +18,7 @@ My main focus is <strong>Front-End Development</strong>. I love working with mod
 const user: Dev = {
     fullName: "Marco Leon",
     country: "Costa Rica 🇨🇷",
-    languages: "English 🇺🇸", "Spanish 🇲🇽",
+    languages: ["English 🇺🇸", "Spanish 🇲🇽"],
     topics: {
         'Tech': { icon: '🤖', valid: true },
         'Videogames': { icon: '👾', valid: true },
