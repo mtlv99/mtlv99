@@ -58,7 +58,7 @@ Technologies I use on a daily basis.
 
 #### Familiar with
 
-I worked with these technologies in the past for a job, or learned them in college.
+I have worked with these technologies in the past for a job, or learned them in college.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
