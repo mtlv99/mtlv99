@@ -55,13 +55,13 @@ Technologies I use on a daily basis.
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 #### Familiar with
 
 I have worked with these technologies in the past for a job, or learned them in college.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Webpack](https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
