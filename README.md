@@ -5,7 +5,7 @@
 I'm Marco León, a Software Developer based in Costa Rica.
 
 
-My main focus is <strong>Front-End Development</strong>. I love working with modern technologies for delivering beautiful experiences.
+My main focus is <strong>Front-End Development</strong>. I love working with modern technologies to deliver beautiful experiences.
 
 
 
