@@ -93,5 +93,5 @@ I'm interested in these technologies; planning to learn them soon.
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtlv99)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mtlv99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
