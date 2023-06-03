@@ -83,13 +83,13 @@ I have worked with these technologies in the past for a job, or learned them in 
 I'm interested in these technologies; planning to learn them soon.
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Blender](https://img.shields.io/badge/-Blender-20232A?style=for-the-badge&logo=blender&logoColor=23F5792A)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-20232A?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 #### Currently learning
 
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=B73BFE)
 ![Three.JS](https://img.shields.io/badge/Three.Js-20232A?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-20232A?style=for-the-badge&logo=blender&logoColor=23F5792A)
 
 <hr>
 
